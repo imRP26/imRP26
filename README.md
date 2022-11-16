@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Rahul Padhy, aka @JimHalpert26 (Duh, a bigtime "The Office" fan)
+- 👋 Hi, I’m Rahul Padhy, aka @JimHalpert26 (Duh, a bigtime "The Office" fan).
 - 👀 I’m interested in just living life!
-- 🌱 I’m currently learning how to cope up with the pressures of doing Master's at IIIT Hyderabad!!
-- 💞️ I’m looking to collaborate on Systems based work.
-- 📫 How to reach me ...
+- 🌱 I’m currently learning (and un-learning) many things.
+- 📫 You can reach me through [LinkedIn](https://www.linkedin.com/in/rahulpadhy1996/) 
 
 <!---
 JimHalpert26/JimHalpert26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
