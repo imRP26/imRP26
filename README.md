@@ -1,7 +1,7 @@
-<h1 align="center">Hello there 👋🏻, this is Rahul.</h1>
-<h3 align="center">I am currently pursuing my Masters' in Computer Science and Engineering from IIIT Hyderabad (2022-24). Prior to this, I was a Member of Technical Staff at Oracle, Bengaluru and then a Software Engineer at Drivetrain.ai.</h3>
+<h2 align="center">Hello there 👋🏻, this is Rahul.</h2>
+<h4 align="center">I am currently pursuing my Masters' in Computer Science and Engineering from IIIT Hyderabad (2022-24). Prior to this, I was a Member of Technical Staff at Oracle, Bengaluru and then a Software Engineer at Drivetrain.ai.</h4>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imRP26&theme=flat" alt="imRP26" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imRP26&column=-1&margin-w=15" alt="imRP26" /></a> </p>
 
 - I’m currently working on **implementing my own version of BitTorrent from scratch**.
 
@@ -18,17 +18,17 @@
 - You can reach me on **[mail](rahulpadhy.15.09.1996@gmail.com)** or on **[LinkedIn](https://www.linkedin.com/in/rahulpadhy1996/)**.
 
 
+<h4 align="left">LeetCode  Stats :-</h4>
 
+![My LeetCode Stats](https://leetcard.jacoblin.cool/rahul1003?width=1000&height=430&theme=dark&font=Roboto&ext=heatmap)
 
-<h3 align="left">My Leetcode stats :-</h3>
+<h4 align="left">About my GitHub :-</h4>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/rahul1003?width=1000&height=430&theme=wtf&font=Roboto&ext=heatmap)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imRP26&show_icons=true&theme=dark&locale=en&layout=compact&card_width=485" alt="imRP26" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imRP26&show_icons=true&theme=nord&locale=en&layout=compact" alt="imRP26" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imRP26&show_icons=true&theme=dark&locale=en&layout=compact&card_width=485" alt="imRP26" /></p> 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imRP26&show_icons=true&theme=nord&locale=en" alt="imRP26" /></p> 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imRP26&" alt="imRP26" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imRP26&theme=dark&locale=en&card_width=1000" alt="imRP26" /></p>
 
 <!---
 imRP26/imRP26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
