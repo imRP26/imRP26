@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imRP26&column=-1&margin-w=15" alt="imRP26" /></a> </p>
 
-- I’m currently working on **implementing my own version of BitTorrent from scratch**.
-
 - I’m currently learning **Natural Language Processing and Data Systems**.
 
 - I’m constantly improving on **Data Structures, Algorithms, High-Level Design and Low-Level Design**.
