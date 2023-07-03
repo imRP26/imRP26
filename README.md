@@ -3,12 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imRP26&column=-1&margin-w=15" alt="imRP26" /></a> </p>
 
-- I’m currently learning **Natural Language Processing and Data Systems**.
-
-- I’m constantly improving on **Data Structures, Algorithms, High-Level Design and Low-Level Design**.
-
-- Ask me about **Operating Systems, Database Management Systems, Machine Learning, Natural Language Processing**, etc.
-
 - I've worked on **end-to-end automation of test suites of various protocols (FTP, CIFS, i18n)** at **Vertias**, **Big Data Clustering, Graph Analytics and Code Coverage** at **Oracle** and **created data pipelines and version1 of forecasting models** from scratch at **Drivetrain**.
 
 - I'm proficient with **Java**, **Python**, **C/C++**, **MySQL** and **Shell** and familiar with **HTML/CSS/JS** and **Powershell**.
