@@ -1,4 +1,4 @@
-<h1 align="center">Hello there 👋🏻, this is Rahul.</h1>
+<h1 align="center">Hi there 👋🏻, this is Rahul.</h1>
 <h3 align="center">I am currently pursuing my Masters' in Computer Science and Engineering from IIIT Hyderabad (2022-24). Prior to this, I was a Member of Technical Staff at Oracle, Bengaluru and then a Software Engineer at Drivetrain.ai. I completed my Bachelors' in Computer Science and Engineering from NIT Rourkela in 2018.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imRP26&column=-1&margin-w=15" alt="imRP26" /></a> </p>
