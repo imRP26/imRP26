@@ -18,7 +18,7 @@
 
 <h3 align="left">LeetCode  Stats :-</h3>
 
-![My LeetCode Stats](https://leetcard.jacoblin.cool/rahul1003?width=1000&height=430&theme=dark&font=Roboto&ext=heatmap)
+![My LeetCode Stats](https://leetcard.jacoblin.cool/rahul1003?width=1000&height=430&theme=forest&font=Roboto&ext=heatmap)
 
 <h3 align="left">About my GitHub :-</h3>
 
