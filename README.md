@@ -10,6 +10,8 @@
 
 - I'm proficient with **Java**, **Python**, **C/C++**, **MySQL** and **Shell** and familiar with **HTML/CSS/JS** and **Powershell**.
 
+- I'm well versed with Data Structures and Algorithms, Low-Level and High-Level Design, Database Management Systems, Machine Learning, Natural Language Processing, Operating Systems.
+
 - You can reach me on **[mail](rahulpadhy.15.09.1996@gmail.com)** or on **[LinkedIn](https://www.linkedin.com/in/rahulpadhy1996/)**.
 
 
