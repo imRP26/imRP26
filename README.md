@@ -14,7 +14,7 @@
 
 - You can reach me on **[mail](rahulpadhy.15.09.1996@gmail.com)** or on **[LinkedIn](https://www.linkedin.com/in/rahulpadhy1996/)**.
 
-
+<!---
 
 <h3 align="left">LeetCode  Stats :-</h3>
 
@@ -28,6 +28,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imRP26&theme=dark&locale=en&card_width=1000" alt="imRP26" /></p>
 
+--->
 
 <!---
 imRP26/imRP26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
