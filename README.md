@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋🏻, this is Rahul.</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imRP26&column=-1&margin-w=15" alt="imRP26" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imRP26&theme=monokai&column=-1&margin-w=15" alt="imRP26" /></a> </p>
 
 - I am currently pursuing my **Masters' in Computer Science and Engineering** from **IIIT Hyderabad (2022-24)**.
 
@@ -27,7 +27,7 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=imRP26&show_icons=true&theme=dark&locale=en&layout=compact&card_width=1000" alt="imRP26" /></p> 
 --->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imRP26&locale=en&card_width=1000" alt="imRP26" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imRP26&theme=dark&locale=en&card_width=1000" alt="imRP26" /></p>
 
 
 
