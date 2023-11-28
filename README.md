@@ -14,12 +14,12 @@
 
 - You can reach me on **[mail](rahulpadhy.15.09.1996@gmail.com)** or on **[LinkedIn](https://www.linkedin.com/in/rahulpadhy1996/)**.
 
-<!---
 
 <h3 align="left">LeetCode  Stats :-</h3>
 
-![My LeetCode Stats](https://leetcard.jacoblin.cool/rahul1003?width=1000&height=430&theme=wtf&font=Roboto&ext=heatmap)
+![My LeetCode Stats](https://leetcard.jacoblin.cool/rahulpadhy26?width=1000&height=430&theme=Forest&font=Roboto&ext=contest)
 
+<!---
 <h3 align="left">About my GitHub :-</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imRP26&show_icons=true&theme=dark&locale=en&layout=compact&card_width=1000" alt="imRP26" /></p>
