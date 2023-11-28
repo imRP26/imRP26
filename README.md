@@ -15,7 +15,7 @@
 - You can reach me on **[mail](rahulpadhy.15.09.1996@gmail.com)** or on **[LinkedIn](https://www.linkedin.com/in/rahulpadhy1996/)**.
 
 
-<h3 align="left">LeetCode  Stats :-</h3>
+<h3 align="left">LeetCode Stats :-</h3>
 
 ![My LeetCode Stats](https://leetcard.jacoblin.cool/rahulpadhy26?width=1000&height=430&theme=Forest&font=Roboto&ext=contest)
 
@@ -29,7 +29,7 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=imRP26&show_icons=true&theme=dark&locale=en&layout=compact&card_width=1000" alt="imRP26" /></p> 
 --->
 
-
+<h3 align="left">Github Stats :-</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imRP26&theme=dark&locale=en&card_width=1000" alt="imRP26" /></p>
 
 
