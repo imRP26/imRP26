@@ -1,4 +1,12 @@
-<h1 align="center">Hi there 👋🏻, this is Rahul.</h1>
+<h1 align="center">Hi there 👋🏻, this is Rahul !</h1>
+
+[![GitHub followers](https://img.shields.io/github/followers/imRP26?label=Follow&style=social)](https://github.com/imRP26/?tab=follow)
+[![Gmail Badge](https://img.shields.io/badge/-email@rahulpadhy.15.09.1996-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:email@rahulpadhy.15.09.1996)](mailto:email@rahulpadhy.15.09.1996)
+[![LinkedIn Badge](https://img.shields.io/badge/-rahulpadhy1996-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahulpadhy1996/)](https://www.linkedin.com/in/rahulpadhy1996/)
+[![LeetCode](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Frahulpadhy26&logo=leetcode&logoColor=yellow)](https://leetcode.com/rahulpadhy26/)
+[![Medium Badge](https://img.shields.io/badge/-RahulPadhy26-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@RahulPadhy26)](https://medium.com/@RahulPadhy26)
+[![Instagram Badge](https://img.shields.io/badge/-im_rp26-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/im_rp26/)](https://www.instagram.com/im_rp26/)
+[![Telegram Badge](https://img.shields.io/badge/-RahulPadhy26-grey?style=flat-square&logo=Telegram&logoColor=white&link=https://telegram.org/@RahulPadhy26)](https://telegram.org/@RahulPadhy26)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imRP26&theme=monokai&column=-1&margin-w=15" alt="imRP26" /></a> </p>
 
@@ -12,27 +20,10 @@
 
 - I'm well versed with Data Structures and Algorithms, Low-Level and High-Level Design, Database Management Systems, Machine Learning, Natural Language Processing, Operating Systems.
 
-- You can reach me on **[mail](rahulpadhy.15.09.1996@gmail.com)** or on **[LinkedIn](https://www.linkedin.com/in/rahulpadhy1996/)**.
+- You can connect with me me on **[LinkedIn](https://www.linkedin.com/in/rahulpadhy1996/)**.
 
 
-<h3 align="left">LeetCode Stats :-</h3>
-
-![My LeetCode Stats](https://leetcard.jacoblin.cool/rahulpadhy26?width=1000&height=430&theme=Forest&font=Roboto&ext=contest)
-
-<!---
-<h3 align="left">About my GitHub :-</h3>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imRP26&show_icons=true&theme=dark&locale=en&layout=compact&card_width=1000" alt="imRP26" /></p>
---->
-
-<!---
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=imRP26&show_icons=true&theme=dark&locale=en&layout=compact&card_width=1000" alt="imRP26" /></p> 
---->
-
-<h3 align="left">Github Stats :-</h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imRP26&theme=dark&locale=en&card_width=1000" alt="imRP26" /></p>
-
-
+<img src="stats.gif" width="90%"><br/><br/>
 
 <!---
 imRP26/imRP26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
