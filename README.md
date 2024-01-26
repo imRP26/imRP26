@@ -8,7 +8,9 @@
 [![Instagram Badge](https://img.shields.io/badge/-im_rp26-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/im_rp26/)](https://www.instagram.com/im_rp26/)
 [![Telegram Badge](https://img.shields.io/badge/-RahulPadhy26-grey?style=flat-square&logo=Telegram&logoColor=white&link=https://telegram.org/@RahulPadhy26)](https://telegram.org/@RahulPadhy26)
 
+<!---
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imRP26&theme=monokai&column=-1&margin-w=15" alt="imRP26" /></a> </p>
+--->
 
 - I am currently pursuing my **Masters' in Computer Science and Engineering** from **IIIT Hyderabad (2022-24)**.
 
