@@ -18,7 +18,7 @@
 
 - I've worked on **end-to-end automation of test suites of various protocols (FTP, CIFS, i18n)** at **Veritas**, **Big Data Clustering, Graph Analytics and Code Coverage** at **Oracle** and **created data pipelines and version1 of forecasting models** from scratch at **Drivetrain**.
 
-- I'm proficient with **Java**, **Python**, **C/C++**, **MySQL** and **Shell** and familiar with **HTML/CSS/JS** and **Powershell**.
+- I'm proficient with **Java**, **Python**, **C/C++**, **SQL** and **Shell** and familiar with **Go**, **HTML/CSS/JS** and **Powershell**.
 
 - I'm well versed with Data Structures and Algorithms, Low-Level and High-Level Design, Database Management Systems, Machine Learning, Natural Language Processing, Operating Systems.
 
