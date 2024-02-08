@@ -25,6 +25,10 @@
 - You can connect with me me on **[LinkedIn](https://www.linkedin.com/in/rahulpadhy1996/)**.
 
 
+<!---
+![github contribution grid snake animation](https://raw.githubusercontent.com/yxxhero/yxxhero/output/github-contribution-grid-snake.svg)
+--->
+
 <img src="stats.gif" width="90%"><br/><br/>
 
 <!---
