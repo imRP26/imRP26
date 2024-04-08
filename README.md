@@ -14,9 +14,9 @@
 
 - I am currently pursuing my **Masters' in Computer Science and Engineering** from **IIIT Hyderabad (2022-24)**.
 
-- Prior to this, I was a **Member of Technical Staff** at **Oracle**, **Bengaluru** and then a **Software Engineer** at **Drivetrain.ai**. I completed my Bachelors' in Computer Science and Engineering from NIT Rourkela in 2018.
+- Prior to this, I was an Associate Software Engineer at **Veritas Technologies LLC, Pune** and then a Member of Technical Staff at **Oracle, Bengaluru**. I completed my Bachelors' in Computer Science and Engineering from NIT Rourkela in 2018.
 
-- I've worked on **end-to-end automation of test suites of various protocols (FTP, CIFS, i18n)** at **Veritas**, **Big Data Clustering, Graph Analytics and Code Coverage** at **Oracle** and **created data pipelines and version1 of forecasting models** from scratch at **Drivetrain**.
+- I've worked on **end-to-end automation of test suites of various protocols (FTP, CIFS, i18n)** at **Veritas** and **Big Data Clustering, Graph Analytics and Code Coverage** at **Oracle**.
 
 - I'm proficient with **Java**, **Python**, **C/C++**, **SQL** and **Shell** and familiar with **Go**, **HTML/CSS/JS** and **Powershell**.
 
