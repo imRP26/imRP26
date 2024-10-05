@@ -12,9 +12,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imRP26&theme=monokai&column=-1&margin-w=15" alt="imRP26" /></a> </p>
 --->
 
-- I recently completed my **Masters' in Computer Science and Engineering** from **IIIT Hyderabad (2022-24)**.
+- I've recently completed my **Masters' in Computer Science and Engineering** from **IIIT Hyderabad**.
 
-- Prior to this, I was an Associate Software Engineer at **Veritas Technologies LLC, Pune** and then a Member of Technical Staff at **Oracle, Bengaluru**. I completed my Bachelors' in Computer Science and Engineering from NIT Rourkela in 2018.
+- Prior to this, I was an Associate Software Engineer at **Veritas Technologies LLC, Pune** and then a Member of Technical Staff at **Oracle, Bengaluru**. I completed my Bachelors' in Computer Science and Engineering from NIT Rourkela.
 
 - I've worked on **end-to-end automation of test suites of various protocols (FTP, CIFS, i18n)** at **Veritas** and **Big Data Clustering, Graph Analytics and Code Coverage** at **Oracle**.
 
