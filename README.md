@@ -14,11 +14,11 @@
 
 - I've recently completed my **Masters'** in **Computer Science and Engineering** from **IIIT Hyderabad**.
 
-- Prior to this, I was a **Member of Technical Staff** at **Oracle, Bengaluru**.
+- Prior to this, I was a **Member of Technical Staff** at **Oracle, Bengaluru** in the DBCloud org.
 
 - I've done my **Bachelors'** in **Computer Science and Engineering** from **NIT Rourkela**.
 
-- I've worked on **end-to-end automation of test suites of various protocols (FTP, CIFS, i18n)** at **Veritas** and **Big Data Clustering, Graph Analytics and Code Coverage** at **Oracle**.
+- I've professionally worked on **end-to-end automation of test suites of various protocols (FTP, CIFS, i18n), Big Data Clustering, Graph Analytics and Code Coverage**.
 
 - I'm proficient with **Java**, **Python**, **C/C++**, **SQL** and **Shell** and familiar with **Go**, **HTML/CSS/JS** and **Powershell**.
 
