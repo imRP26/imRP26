@@ -18,7 +18,7 @@
 
 - I've done my **Bachelors'** in **Computer Science and Engineering** from **NIT Rourkela**.
 
-- I've professionally worked on **end-to-end automation of test suites of various protocols (FTP, CIFS, i18n), Big Data Clustering, Graph Analytics and Code Coverage**.
+- I've professionally worked on **end-to-end automation of test suites of various protocols (FTP, CIFS, i18n), Big Data Clustering, Graph Analytics and Code Coverage, forecasting models, setting up data pipelines (AirByte) from scratch and doing custom modifications on their open-source implementations**.
 
 - I'm proficient with **Java**, **Python**, **C/C++**, **SQL** and **Shell** and familiar with **Go**, **HTML/CSS/JS** and **Powershell**.
 
