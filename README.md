@@ -16,7 +16,7 @@
 
 - I'm well versed with Data Structures and Algorithms, Low-Level and High-Level Design, Database Management Systems, Machine Learning, Natural Language Processing, Operating Systems.
 
-- You can connect with me me on **[LinkedIn](https://www.linkedin.com/in/rahulpadhy1996/)** or on **[Gmail](mailto:email@rahulpadhy.15.09.1996)**.
+- You can connect with me me on **[LinkedIn](https://www.linkedin.com/in/rahulpadhy1996/)** or shoot me a mail at **[Gmail](mailto:email@rahulpadhy.15.09.1996)**.
 
 
 <!---
