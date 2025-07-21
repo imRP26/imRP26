@@ -1,9 +1,5 @@
 <h1 align="center">Hi there 👋🏻, this is Rahul !</h1>
 
-[![GitHub followers](https://img.shields.io/github/followers/imRP26?label=Follow&style=social)](https://github.com/imRP26/?tab=follow)
-[![Gmail Badge](https://img.shields.io/badge/-email@rahulpadhy.15.09.1996-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:email@rahulpadhy.15.09.1996)](mailto:email@rahulpadhy.15.09.1996)
-[![LinkedIn Badge](https://img.shields.io/badge/-rahulpadhy1996-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahulpadhy1996/)](https://www.linkedin.com/in/rahulpadhy1996/)
-
 <!---
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imRP26&theme=monokai&column=-1&margin-w=15" alt="imRP26" /></a> </p>
 --->
@@ -20,7 +16,7 @@
 
 - I'm well versed with Data Structures and Algorithms, Low-Level and High-Level Design, Database Management Systems, Machine Learning, Natural Language Processing, Operating Systems.
 
-- You can connect with me me on **[LinkedIn](https://www.linkedin.com/in/rahulpadhy1996/)**.
+- You can connect with me me on **[LinkedIn](https://www.linkedin.com/in/rahulpadhy1996/)** or on **[Gmail](mailto:email@rahulpadhy.15.09.1996)**.
 
 
 <!---
